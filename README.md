@@ -2,12 +2,11 @@ Project HiTani dibuat untuk memenuhi Tugas akhir mata kuliah Pemrograman Perangk
 
 <ol>
 Anggota Kelompok:
-<li>Faiza Rachma (20102110)</li>
-<li>Farah Zhafirah Adrytona (20102112)</li>
-<li>Putri Pusparini (20102127)</li>
+<li>Faiza Rachma (20102110) => Development </li>
+<li>Farah Zhafirah Adrytona => Desain (20102112)</li>
+<li>Putri Pusparini (20102127)=> Laporan</li>
 </ol>
 
-
-Download Here : [HiTani.apk](https://gitlab.com/farahzha/projectppb_ti1/-/raw/main/app-release.apk)
+ Aplikasi mobile dengan menggunakan flutter dalam pengembangan sistemnya.
 
 
