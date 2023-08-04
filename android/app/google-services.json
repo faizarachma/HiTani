@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "498848852935",
+    "project_id": "hitani-933c9",
+    "storage_bucket": "hitani-933c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498848852935:android:8c21c14280d329b31887e2",
+        "android_client_info": {
+          "package_name": "com.example.hitani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498848852935-olgpean8vd6r6op5r8sk99ppei0agdbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hitani",
+            "certificate_hash": "cd2c3d4e917624d7965a6ff8bdaf690a7c529c67"
+          }
+        },
+        {
+          "client_id": "498848852935-c9f2f2am3d1pt2gre3duj9koqkbi8kit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDKS0IHKaj-Byw-u3diIhaV7IawBnxxc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498848852935-c9f2f2am3d1pt2gre3duj9koqkbi8kit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498848852935-b2n9tnpmqmsmbvfolsq45s232kd62ks1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.groceryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
